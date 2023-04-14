@@ -1,10 +1,8 @@
 ---
 layout: default
-
-custom-javascript-list:
-  - "https://cdn.botpress.cloud/webchat/v0/inject.js"
-  - "https://mediafiles.botpress.cloud/a27c73b8-1660-4195-8d82-34d7b9d09375/webchat/config.js"
 ---
+
+{% include embed_bot.html %}
 
 # Recipe Bot Web Demo
 
