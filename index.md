@@ -9,7 +9,7 @@ layout: default
         "hostUrl": "https://cdn.botpress.cloud/webchat/v0",
         "messagingUrl": "https://messaging.botpress.cloud",
         "clientId": "a27c73b8-1660-4195-8d82-34d7b9d09375",
-        "botName": "Recipe Bot"
+        "botName": "Salvador, the AI Chef"
     });
   </script>
 </head>
