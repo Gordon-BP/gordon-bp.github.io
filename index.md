@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-
+<head>
 {% include embed_bot.html %}
+</head>
 
 # Recipe Bot Web Demo
 
