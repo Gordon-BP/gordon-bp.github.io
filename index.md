@@ -5,16 +5,20 @@ layout: default
 
 # Recipe Bot Web Demo
 
-This is a test page for hosting a Botpress Cloud bot in a Github Pages site.
+This is a webpage all about the Recipe Bot built using the new [Botpress Cloud Studio](https://botpress.com)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yu1Sg_M_Ltc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## YouTube Playlist
 
-You can follow along and build your own bot with the videos in [this playlist](https://www.youtube.com/playlist?list=PLlJHGGklthGnOzptoN_WV35UibNmZLMRE)
+All of the project's videos are collected in [this playlist.](https://www.youtube.com/playlist?list=PLlJHGGklthGnOzptoN_WV35UibNmZLMRE)
 
 
 ## Code Used
 
-Calling the Spoonacular API [video 3](https://www.youtube.com/watch?v=cP9mWwC7rLE&list=PLlJHGGklthGnOzptoN_WV35UibNmZLMRE&index=3&t=6s&pp=gAQBiAQB)
+Calling the Spoonacular API-
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cP9mWwC7rLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ```js
 var options = {
@@ -40,7 +44,9 @@ if (response.status == 200) {
 }
 ```
 
-Rendering the carousel [video 4](https://www.youtube.com/watch?v=qK0lm8ybWL8&list=PLlJHGGklthGnOzptoN_WV35UibNmZLMRE&index=4&pp=gAQBiAQB)
+Rendering the carousel-
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qK0lm8ybWL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ```js
 workflow.recipeInfo = []
@@ -93,7 +99,10 @@ for (var card of myCards) {
 }
 ```
 
-Preparing Chat History [video 5](https://www.youtube.com/watch?v=Enn6nGjmRzE&list=PLlJHGGklthGnOzptoN_WV35UibNmZLMRE&index=5&t=66s&pp=gAQBiAQB)
+Preparing Chat History-
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Enn6nGjmRzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ```js
 workflow.chatHistory = []
