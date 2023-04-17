@@ -2,7 +2,10 @@
 layout: default
 ---
 
-
+<head>
+  <script src="https://cdn.botpress.cloud/webchat/v0/inject.js"></script>
+  <script src="https://mediafiles.botpress.cloud/7888d970-6d98-4091-9323-7791b87f8eee/webchat/config.js" defer></script>  
+</head>
 # Recipe Bot Web Demo
 
 This is a webpage all about the Recipe Bot built using the new [Botpress Cloud Studio](https://botpress.com)
