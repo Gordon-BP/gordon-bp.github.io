@@ -18,14 +18,17 @@ Are you ready to defy gravity and master the art of the perfect handstand? Meet 
 
 ![Handstand Hero](/assets/images/handstand/handstand_5.png){:class="small-image-right"}But after discovering the power of handstands, Jane's outlook changed. "Learning to do a handstand gave me the confidence to try other things that scared me," she explains. "It helped me realize that I am capable of so much more than I ever thought." With Handstand Hero, Jane is ready to help you do the same. "I want to help people feel strong and empowered," she says. "I believe that everyone is capable of doing a handstand, no matter their fitness level or experience."
 
+![Handstand Hero](/assets/images/handstand/handstand_2_cropped.png){:class="small-image-left"}
 ## The Power of Handstands: How They Can Be a Gateway to Achieving Your Goals
-![Handstand Hero](/assets/images/handstand/handstand_2_cropped.png){:class="small-image-left"}Handstands are more than just a cool party trick - they can be a gateway to doing other hard things. Imagine being able to establish a consistent exercise routine, overcome anxiety, or build a better relationship with your loved ones - all because you learned how to do a handstand.
+Handstands are more than just a cool party trick - they can be a gateway to doing other hard things. Imagine being able to establish a consistent exercise routine, overcome anxiety, or build a better relationship with your loved ones - all because you learned how to do a handstand.
 But the benefits of handstands don't just stop there. They also have numerous health benefits, including improving circulation, strengthening your core, and reducing stress levels.
 
 ## A Proven System for Learning Handstands
-![Handstand Hero](/assets/images/handstand/handstand_1_cropped.png){:class="small-image-right"}We know that learning a handstand can seem intimidating, but that's where Handstand Hero comes in. This course takes all of the guesswork and mistakes out of the learning process. You'll have access to a proven system that helps you progress quickly and safely, without risking injury.
+We know that learning a handstand can seem intimidating, but that's where Handstand Hero comes in. This course takes all of the guesswork and mistakes out of the learning process. You'll have access to a proven system that helps you progress quickly and safely, without risking injury.
 Our 5-week course is designed to give you a step-by-step guide on mastering the perfect handstand. "I've broken down the handstand into simple steps that anyone can follow," Jane says. "I'll be there to support you every step of the way."
-We'll cover everything from the basics of body alignment and weight distribution to the advanced techniques of handstand push-ups and transitions. And the best part? You'll have lifetime access to the course, so you can revisit any part of it whenever you need a refresher.
+
+![Handstand Hero](/assets/images/handstand/handstand_1_cropped.png){:class="small-image-right"}
+We'll cover everything from the basics of body alignment and weight distribution to the advanced techniques of handstand push-ups and transitions. The learning process is spaced out over 5 weeks to allow for sufficient recovery and practice time. And the best part? You'll have lifetime access to the course, so you can revisit any part of it whenever you need a refresher.
 
 ## Connect and Achieve Your Goals Together
 ![Handstand Hero](/assets/images/handstand/handstand_4.png){:class="small-image-left"}With Handstand Hero, you'll also have access to a supportive community of fellow handstand learners. "I believe that having a supportive community is essential to achieving your goals," Jane explains. "You'll be able to connect with other students, share your progress, and receive feedback from your peers and your instructor."
@@ -45,3 +48,7 @@ But don't just take our word for it - here's what some of our students have to s
 
 So what are you waiting for? Join the Handstand Hero community today and start defying gravity in just 5 weeks.
 [Get Started Now!](http://www.botpress.com){: .btn}
+
+### Disclaimer
+
+This website is intended as a demo to be used during the Botpress Bot-Building Office Hours Livestream. All written content was created by ChatGPT, and all images are a product of DALLE-2 and [thispersondoesnotexist](https://www.thispersondoesnotexist.com). Please do not take anything on this webpage as serious or legitimate content, it is for educational purposes only.
