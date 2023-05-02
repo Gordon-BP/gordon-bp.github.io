@@ -7,8 +7,9 @@ layout: default
   <script src="https://mediafiles.botpress.cloud/c0fbf0dd-a989-4515-b53c-c134185945b8/webchat/config.js" defer></script>
 </head>
 
-# Handstand Hero: 5 Weeks to Defying Gravity
+
 ![Handstand Hero](/assets/images/handstand/handstand_3_cropped.png){:class="hero-image"}
+# Handstand Hero: 5 Weeks to Defying Gravity
 Handstand Hero is a 5-week online course that teaches students how to do a handstand, even if they have no previous experience. With step-by-step instructions and expert guidance from Jane, students will learn how to safely progress towards a handstand, gain confidence in themselves, and discover the health benefits of this challenging but rewarding skill.
 
 
@@ -34,6 +35,8 @@ We'll cover everything from the basics of body alignment and weight distribution
 ![Handstand Hero](/assets/images/handstand/handstand_4.png){:class="small-image-left"}With Handstand Hero, you'll also have access to a supportive community of fellow handstand learners. "I believe that having a supportive community is essential to achieving your goals," Jane explains. "You'll be able to connect with other students, share your progress, and receive feedback from your peers and your instructor."
 But don't just take our word for it - here's what some of our students have to say:
 
+
+
 ![Handstand Hero](/assets/images/handstand/headshot_1.jpeg){:class="profile-pic"}
 "I never thought I could do a handstand, but Jane's course changed that. Her step-by-step approach made it so easy to follow along, and now I can confidently do a handstand on my own!" - Sarah
 
@@ -49,6 +52,8 @@ But don't just take our word for it - here's what some of our students have to s
 So what are you waiting for? Join the Handstand Hero community today and start defying gravity in just 5 weeks.
 [Get Started Now!](http://www.botpress.com){: .btn}
 
+
+
 ### Disclaimer
 
-This website is intended as a demo to be used during the Botpress Bot-Building Office Hours Livestream. All written content was created by ChatGPT, and all images are a product of DALLE-2 and [thispersondoesnotexist](https://www.thispersondoesnotexist.com). Please do not take anything on this webpage as serious or legitimate content, it is for educational purposes only.
+This website is intended as a demo to be used during the Botpress Bot-Building Office Hours Livestream. All written content was created by ChatGPT, and all images are a product of DALLE-2 and [This Person Does Not Exist](https://www.this-person-does-not-exist.com). **Please do not take anything on this webpage as serious or legitimate content, it is for educational purposes only.**
