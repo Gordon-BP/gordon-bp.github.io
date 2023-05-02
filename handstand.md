@@ -54,6 +54,8 @@ So what are you waiting for? Join the Handstand Hero community today and start d
 
 
 
+
+
 [Get Started Now!](http://www.botpress.com){: .btn}
 
 
@@ -108,6 +110,14 @@ Yes! Every student receives one free, one-on-one live-coaching session with Jane
 
 We're confident that you'll love our course, but if for any reason you're not satisfied, we offer a 30-day money-back guarantee. This means you can enroll in the course risk-free and try it out for yourself.
 
+
+
+
+
+
+
+
+[Get Started Now!](http://www.botpress.com){: .btn}
 
 
 
