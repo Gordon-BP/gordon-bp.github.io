@@ -8,21 +8,22 @@ layout: default
 </head>
 
 # Handstand Hero: 5 Weeks to Defying Gravity
-![Handstand Hero](/assets/images/handstand/handstand_1.png){:class="hero-image"}
+![Handstand Hero](/assets/images/handstand/handstand_3_cropped.png){:class="hero-image"}
 Handstand Hero is a 5-week online course that teaches students how to do a handstand, even if they have no previous experience. With step-by-step instructions and expert guidance from Jane, students will learn how to safely progress towards a handstand, gain confidence in themselves, and discover the health benefits of this challenging but rewarding skill.
 
 
 ## "Learning to do a handstand gave me the confidence to try other things that scared me"
 ![Handstand Hero](/assets/images/handstand/Jane_headshot.jpeg){:class="profile-pic"}
 Are you ready to defy gravity and master the art of the perfect handstand? Meet your instructor, Jane. She was once just like you, struggling with anxiety and self-esteem. "I used to think that I wasn't strong or athletic enough to do a handstand," Jane admits. "I would always compare myself to others and feel like I wasn't good enough."
+
 ![Handstand Hero](/assets/images/handstand/handstand_5.png){:class="small-image-right"}But after discovering the power of handstands, Jane's outlook changed. "Learning to do a handstand gave me the confidence to try other things that scared me," she explains. "It helped me realize that I am capable of so much more than I ever thought." With Handstand Hero, Jane is ready to help you do the same. "I want to help people feel strong and empowered," she says. "I believe that everyone is capable of doing a handstand, no matter their fitness level or experience."
 
 ## The Power of Handstands: How They Can Be a Gateway to Achieving Your Goals
-![Handstand Hero](/assets/images/handstand/handstand_2.png){:class="small-image-left"}Handstands are more than just a cool party trick - they can be a gateway to doing other hard things. Imagine being able to establish a consistent exercise routine, overcome anxiety, or build a better relationship with your loved ones - all because you learned how to do a handstand.
+![Handstand Hero](/assets/images/handstand/handstand_2_cropped.png){:class="small-image-left"}Handstands are more than just a cool party trick - they can be a gateway to doing other hard things. Imagine being able to establish a consistent exercise routine, overcome anxiety, or build a better relationship with your loved ones - all because you learned how to do a handstand.
 But the benefits of handstands don't just stop there. They also have numerous health benefits, including improving circulation, strengthening your core, and reducing stress levels.
 
 ## A Proven System for Learning Handstands
-![Handstand Hero](/assets/images/handstand/handstand_3.png){:class="small-image-right"}We know that learning a handstand can seem intimidating, but that's where Handstand Hero comes in. This course takes all of the guesswork and mistakes out of the learning process. You'll have access to a proven system that helps you progress quickly and safely, without risking injury.
+![Handstand Hero](/assets/images/handstand/handstand_1_cropped.png){:class="small-image-right"}We know that learning a handstand can seem intimidating, but that's where Handstand Hero comes in. This course takes all of the guesswork and mistakes out of the learning process. You'll have access to a proven system that helps you progress quickly and safely, without risking injury.
 Our 5-week course is designed to give you a step-by-step guide on mastering the perfect handstand. "I've broken down the handstand into simple steps that anyone can follow," Jane says. "I'll be there to support you every step of the way."
 We'll cover everything from the basics of body alignment and weight distribution to the advanced techniques of handstand push-ups and transitions. And the best part? You'll have lifetime access to the course, so you can revisit any part of it whenever you need a refresher.
 
