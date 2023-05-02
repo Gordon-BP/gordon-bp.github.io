@@ -58,6 +58,57 @@ So what are you waiting for? Join the Handstand Hero community today and start d
 
 
 
+## FAQs
+
+> Is this course suitable for beginners?
+
+Absolutely! Our course is designed for people of all fitness levels and experience levels, so even if you've never done a handstand before, you'll be able to follow along and make progress.
+
+
+
+
+> What if I can't commit to practicing every day?
+
+
+That's totally fine! While we do recommend practicing every day to see the best results, we understand that life can get in the way. That's why our course is self-paced, so you can practice as often or as little as you like. Plus, with lifetime access, you can revisit the course whenever you're ready to continue your progress.
+
+
+
+
+> How long does it take to learn a handstand with this course?
+
+
+Everyone progresses at their own pace, but with our course, you'll be well on your way to a handstand in just five weeks. We provide clear, step-by-step instructions to ensure you make progress each week.
+
+
+
+
+> What if I injure myself while practicing?
+
+
+Safety is our top priority, which is why our course includes detailed instructions on proper form and technique to help you avoid injuries. Plus, if you have any questions or concerns about a particular exercise, you can reach out to our support team for guidance.
+
+> Can I access the course from any device?
+
+
+Yes! Our course is mobile-friendly, so you can access it from your smartphone, tablet, or computer. This means you can practice whenever and wherever you like, without needing to be at a gym or studio.
+
+
+
+
+> Are there any live sessions included in the course?
+
+Yes! Every student receives one free, one-on-one live-coaching session with Jane herself! Additionally, we hold weekly group coaching sessions every Friday, where you can connect with other students in the course and receive further guidance on your handstand practice. Our live sessions are a great way to stay motivated and on-track towards achieving your handstand goals.
+
+
+
+
+> What if I'm not satisfied with the course?
+ 
+
+We're confident that you'll love our course, but if for any reason you're not satisfied, we offer a 30-day money-back guarantee. This means you can enroll in the course risk-free and try it out for yourself.
+
+
 
 
 
