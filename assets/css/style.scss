@@ -4,9 +4,6 @@
 @import "{{ site.theme }}";
 
 .hero-image {
-  width: 100%;
-  height: auto;
-  padding-top: 50%; /* This creates the 2:1 aspect ratio */
   background-size: cover;
   background-position: center;
 }
@@ -21,15 +18,15 @@
 }
 
 .small-image-left {
-  width: 25%;
-  height: 25%;
+  width: 30%;
+  height: 30%;
   float: left;
   margin-right: 10px; /* Add some space between the image and text */
   margin-bottom: 10px; /* Add some space between images and text below */
 }
 .small-image-right {
-  width: 25%;
-  height: 25%;
+  width: 30%;
+  height: 30%;
   float: right;
   margin-right: 10px; /* Add some space between the image and text */
   margin-bottom: 10px; /* Add some space between images and text below */
@@ -40,12 +37,12 @@
   height: 60px;
   line-height: 60px;
   text-align: center;
-  background-color: #4CAF50;
+  background-color: red;
   color: white;
   font-size: 20px;
   font-weight: bold;
   text-transform: uppercase;
-  border-radius: 30px;
+  border-radius: 10px;
   margin: 0 auto; /* Centers the button horizontally */
   margin-top: 20px; /* Adds some space between the button and other elements */
   cursor: pointer;
