@@ -22,7 +22,59 @@ Are you ready to defy gravity and master the art of the perfect handstand? Meet 
 ![Handstand Hero](/assets/images/handstand/handstand_2_cropped.png){:class="small-image-left"}
 ## The Power of Handstands: How They Can Be a Gateway to Achieving Your Goals
 Handstands are more than just a cool party trick - they can be a gateway to doing other hard things. Imagine being able to establish a consistent exercise routine, overcome anxiety, or build a better relationship with your loved ones - all because you learned how to do a handstand.
-But the benefits of handstands don't just stop there. They also have numerous health benefits, including improving circulation, strengthening your core, and reducing stress levels.
+But the benefits of handstands don't just stop there. They also have numerous health benefits, including improving circulation, strengthening your core, and reducing stress levels. Not convinced? Here are a few more reasons why learning to handstand is the best:
+
+<div>
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-fymr">Doing Nothing</th>
+    <th class="tg-1wig">Learn to Handstand</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Anyone can do it</td>
+    <td class="tg-c3ow">✅</td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">✅</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Beneficial for your health</td>
+    <td class="tg-c3ow">❌</td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">✅</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Makes you cooler at parties</td>
+    <td class="tg-c3ow">❌</td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">✅</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Increases your chances of<br>joining the circus</td>
+    <td class="tg-baqh">❌</td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">✅</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Impresses your pets</td>
+    <td class="tg-baqh">❌</td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">✅</span></td>
+  </tr>
+</tbody>
+</table>
+  </div>
 
 ## A Proven System for Learning Handstands
 We know that learning a handstand can seem intimidating, but that's where Handstand Hero comes in. This course takes all of the guesswork and mistakes out of the learning process. You'll have access to a proven system that helps you progress quickly and safely, without risking injury.
