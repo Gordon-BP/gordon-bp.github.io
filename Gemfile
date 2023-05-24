@@ -1,8 +1,8 @@
-# frozen_string_literal: true
+GEM
+  source "https://rubygems.org"
 
-source "https://rubygems.org"
-
-group :jekyll_plugins do
-  gem jekyll-remote-theme
-
-gemspec
+  group :jekyll_plugins do
+    gem jekyll-remote-theme
+    gemspec
+PLATFORMS
+  x86_64-linux0
